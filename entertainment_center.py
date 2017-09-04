@@ -11,7 +11,7 @@ looper = media.Movie(
         it sends the target into the past, where a
         hit man known as a looper lies in wait
         to finish the job. """,
-        "http://www.sonypictures.com/movies/looper/assets/images/onesheet.jpg",
+        "http://www.sonypictures.com/movies/looper/assets/images/onesheet.jpg",  # NOQA
         "https://www.youtube.com/watch?v=2iQuhsmtfHw")
 
 eternal_sunshine = media.Movie(
@@ -28,7 +28,7 @@ holy_grail = media.Movie(
         "Monty Python and the Quest for the Holy Grail",
         "A King goes in search of knights to complete the" +
         "quest to find the Holy Grail",
-        "http://lsc.mit.edu/schedule/2014.2q/poster-montypythonandtheholygrail.jpg",
+        "http://lsc.mit.edu/schedule/2014.2q/poster-montypythonandtheholygrail.jpg",  # NOQA
         "https://www.youtube.com/watch?v=RDM75-oXGmQ")
 
 memento = media.Movie(
@@ -40,7 +40,7 @@ memento = media.Movie(
         Although he can recall details of life before his accident,
         Leonard cannot remember what happened fifteen minutes ago,
         where he's going, or why.""",
-        "https://upload.wikimedia.org/wikipedia/en/c/c7/Memento_poster.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/c/c7/Memento_poster.jpg",  # NOQA
         "https://www.youtube.com/watch?v=0vS0E9bBSL0")
 
 days_of_summer = media.Movie(
@@ -52,7 +52,7 @@ days_of_summer = media.Movie(
         together to try to figure out where their love affair
         went sour, and in doing so, Tom rediscovers
         his true passions in life.""",
-        "http://static.rogerebert.com/uploads/movie/movie_poster/500-days-of-summer-2009/large_lUh47eMBKUq1OaBkNY27L3gPS6F.jpg",
+        "http://static.rogerebert.com/uploads/movie/movie_poster/500-days-of-summer-2009/large_lUh47eMBKUq1OaBkNY27L3gPS6F.jpg",  # NOQA
         "https://www.youtube.com/watch?v=PsD0NpFSADM")
 
 her = media.Movie(
@@ -67,7 +67,7 @@ her = media.Movie(
         (Scarlett Johansson), whose bright voice reveals
         a sensitive, playful personality. Though 'friends'
         initially, the relationship soon deepens into love.""",
-        "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_UY1200_CR90,0,630,1200_AL_.jpg",  # NOQA
         "https://www.youtube.com/watch?v=WzV6mXIOVl4")
 
 # create movies array
